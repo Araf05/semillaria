@@ -18,10 +18,10 @@ Este proyecto busca ofrecer una herramienta útil, accesible y visualmente amiga
 
 - **Frontend:** React + Vite + TailwindCSS
 - **Backend:** Node.js + Express
-- **Base de datos:** MongoDB (o PostgreSQL)
+- **Base de datos:** MongoDB
 - **Autenticación:** JWT
 - **Testing:** Vitest / Jest / Cypress
-- **Despliegue:** Vercel (frontend) + Render o Railway (backend)
+- **Despliegue:** Netlify (frontend) + Railway (backend)
 
 ---
 
